@@ -10,3 +10,7 @@ Here in this repository i have created a web application using React App.
 4. Show a loader while the API fetches the data. 
 
 5. Use custom CSS/SASS/styled-components. 
+
+
+
+You can check the demo to this at : https://tarun691sharma.github.io/LGMVIP-Webdev-Task2/
